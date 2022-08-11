@@ -1,8 +1,7 @@
 
 
   
-  chats with the group along with there index buttons correspnding to there order for furthur controls...
-
+  
     
 ### Pre Requisites 
 ------------------
