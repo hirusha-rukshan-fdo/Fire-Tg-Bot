@@ -1,1 +1,1 @@
-worker: bash .sh
+worker: bash fire.sh
