@@ -21,7 +21,7 @@ You can deploy this bot anywhere.
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
+<a href="https://heroku.com/deploy?template=https://github.com/hirusha-rukshan-fdo/Fire-Tg-Bot.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
